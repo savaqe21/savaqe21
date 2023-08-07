@@ -3,7 +3,7 @@
 I am an 18-year-old student of a technical college majoring in information technology, who is looking for a job in the IT industry. I myself learned how to use individual tools and write code in various programming technologies. I care about gaining experience and improving my qualifications, so why shouldn't I improve myself in your company?
 * 🌍  I'm based in Gorzów Wielkopolski -> Poland
 * ✉️  You can contact me at [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
-* 🚀  Websites that I built myself from scratch for companies (WordPress) [7Sports](https://7sports.pl) & [Razzo](https://razzo.com.pl) 
+* 🚀  Websites that I built myself from scratch for companies (WordPress) -> [7Sports](https://7sports.pl) & [Razzo](https://razzo.com.pl) 
 * 🧠  I'm learning now SwiftUI
 * 🤝  I'm open to collaborating on on interesting projects that will allow me to develop
 * ⚡  I started my adventure in 2019 learning HTML, CSS and JavaScript. After mastering the basics, creating a few websites and web applications, I decided to switch to creating applications for iOS.
