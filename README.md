@@ -18,6 +18,9 @@ I am an 18-year-old student of a technical college majoring in information techn
  
 ### My GitHub Stats
 
-<a href="http://www.github.com/savaqe21"><img src="https://github-readme-stats.vercel.app/api?username=savaqe21&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="savaqe21's GitHub stats" /></a>
-<a href="http://www.github.com/savaqe21"><img src="https://github-readme-streak-stats.herokuapp.com/?user=savaqe21&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-<a href="https://github.com/savaqe21" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=savaqe21&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![](https://github-readme-stats.vercel.app/api?username=savaqe21&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=savaqe21&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=savaqe21&theme=radical&hide_border=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=savaqe21&icon=2&color=12)](https://visitcount.itsvg.in)
