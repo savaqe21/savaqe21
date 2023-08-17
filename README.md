@@ -23,6 +23,7 @@ I am an 18-year-old student of a technical college majoring in information techn
 <a href="https://sass-lang.com/" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/4fd1d37b-7036-43a4-adc1-5df36e09421d" width="36" height="36" alt="Sass" /></a>
 <a href="https://developer.apple.com/xcode/swiftui/" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/05b8ae36-a824-47e6-8444-12644c6f641f" width="36" height="36" alt="SwiftUI" /></a>
 <a href="https://developer.apple.com/machine-learning/core-ml/" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/b448f2e4-f05a-4410-a41c-16bc2faba3d8" width="36" height="36" alt="CoreML" /></a>
+<a href="https://developer.apple.com/machine-learning/create-ml/" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/30edf512-b79a-4e4d-89de-9e297ac41260" width="36" height="36" alt="CreateML" /></a>
 </p>
 
 ### Tools
@@ -33,7 +34,6 @@ I am an 18-year-old student of a technical college majoring in information techn
 <a href="https://pl.prestashop.com" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/9f474eca-9e1e-41ec-b2a5-878126dd5a57" width="36" height="36" alt="PrestaShop" /></a>
 <a href="https://developer.apple.com/xcode/" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/67c08dd9-e2c3-4275-80df-51626d957e99" width="36" height="36" alt="XCode" /></a>
 <a href="https://www.phpmyadmin.net" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/6a1a991a-87f1-441c-a087-661fbd96ea68" width="36" height="36" alt="phpMyAdmin" /></a>
-<a href="https://developer.apple.com/machine-learning/create-ml/" target="_blank"><img src="https://github.com/savaqe21/savaqe21/assets/113838982/30edf512-b79a-4e4d-89de-9e297ac41260" width="36" height="36" alt="CreateML" /></a>
 </p>
 
  ### Socials  
