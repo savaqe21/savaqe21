@@ -21,6 +21,7 @@ I am an 18-year-old student of a technical college majoring in information techn
 ### Frameworks
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Foundation-crimson?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/CoreML-cadetblue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/MapKit-forestgreen?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/WeatherKit-royalblue?style=for-the-badge">
