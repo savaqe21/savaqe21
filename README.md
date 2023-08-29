@@ -10,29 +10,30 @@ I am an 18-year-old student of a technical college majoring in information techn
 
 ### Languages
 <p align="left">
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/4760a9bb-21a1-4e39-aef4-6295fdd4a0b3" width="36" height="36" alt="Swift" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/1bf677f7-cb17-4a21-86a3-7eb58c6ff43c" width="36" height="36" alt="HTML5" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/648f14a5-7172-4394-b705-c313a7a5e310" width="36" height="36" alt="CSS3" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/8bf1d355-3a0d-4916-9595-b68ab409ffed" width="36" height="36" alt="JavaScript" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/7fb66f5d-752d-4236-b8e7-27585db6cef7" width="36" height="36" alt="PHP" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/1701e545-d4dd-450f-90a6-09b0ccadacca" width="36" height="36" alt="MySQL" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Swift-orange?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML-orangered?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/CSS-dodgerblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">
+  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-steelblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/PHP-indigo?style=for-the-badge">
 </p>
 
 ### Frameworks
 <p align="left">
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/05b8ae36-a824-47e6-8444-12644c6f641f" width="36" height="36" alt="SwiftUI" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/30edf512-b79a-4e4d-89de-9e297ac41260" width="36" height="36" alt="CreateML" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/b448f2e4-f05a-4410-a41c-16bc2faba3d8" width="36" height="36" alt="CoreML" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/4fd1d37b-7036-43a4-adc1-5df36e09421d" width="36" height="36" alt="Sass" />
+<img alt="Static Badge" src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/CoreML-cadetblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/MapKit-forestgreen?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/WeatherKit-royalblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Sass-mediumvioletred?style=for-the-badge">
 </p>
 
 ### Tools
 <p align="left">
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/9e47bc95-c96a-45c7-af35-8ee4892d84a5" width="36" height="36" alt="Git" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/1bbaa432-5331-4a0b-bfe2-7376fe8cd81d" width="36" height="36" alt="WordPress" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/6a1a991a-87f1-441c-a087-661fbd96ea68" width="36" height="36" alt="phpMyAdmin" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/c503fb54-8841-4145-b061-cfa2196b49e9" width="36" height="36" alt="Canva" />
-<img src="https://github.com/savaqe21/savaqe21/assets/113838982/9f474eca-9e1e-41ec-b2a5-878126dd5a57" width="36" height="36" alt="PrestaShop" />
+<img alt="Static Badge" src="https://img.shields.io/badge/Git-coral?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/WordPress-darkcyan?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-chocolate?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Canva-navy?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/PrestaShop-lightslategray?style=for-the-badge">
 </p>
 
 ### My GitHub Stats
