@@ -14,7 +14,7 @@ I am an 18-year-old student of a technical college majoring in information techn
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orangered?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-dodgerblue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">
-  <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-steelblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-steelblue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-indigo?style=for-the-badge">
 </p>
 
