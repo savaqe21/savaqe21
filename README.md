@@ -21,11 +21,11 @@ I am an 18-year-old student of a technical college majoring in information techn
 ### Frameworks
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Sass-mediumvioletred?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/WidgetKit-crimson?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/CoreML-cadetblue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/MapKit-forestgreen?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/WeatherKit-royalblue?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/Sass-mediumvioletred?style=for-the-badge">
 </p>
 
 ### Tools
@@ -33,15 +33,11 @@ I am an 18-year-old student of a technical college majoring in information techn
 <img alt="Static Badge" src="https://img.shields.io/badge/Git-coral?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/WordPress-darkcyan?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-chocolate?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/Canva-navy?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/PrestaShop-lightslategray?style=for-the-badge">
 </p>
 
-### My GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=savaqe21&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+### My Repo languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=savaqe21&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-![](https://github-readme-streak-stats.herokuapp.com/?user=savaqe21&theme=radical&hide_border=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=savaqe21&icon=2&color=12)](https://visitcount.itsvg.in)
