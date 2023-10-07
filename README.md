@@ -1,4 +1,4 @@
-### Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Fabian Leśniak
+### Hi My name is Fabian Leśniak 🙋‍♂️
 ### Junior iOS Developer<br/>
 I am an 18-year-old student of a technical college majoring in information technology, who is looking for a job in the IT industry. I myself learned how to use individual tools and write code in various programming technologies. I care about gaining experience and improving my qualifications, so why shouldn't I improve myself in your company?
 * 🌍  I'm based in Gorzów Wielkopolski ➤ Poland
