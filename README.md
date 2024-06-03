@@ -1,4 +1,4 @@
-### Hi My name is Fabian Leśniak 🙋‍♂️
+### 🙋‍♂️ My name is Fabian Leśniak
 ### Junior Software Developer<br/>
 I am a 19-year-old technical school graduate, majoring in information technology, who is looking for a job in the IT industry. I myself learned how to use individual tools and write code in various programming technologies. I care about gaining experience and improving my qualifications, so why shouldn't I improve myself in your company?
 * 🌍  I'm based in Gorzów Wielkopolski ➤ Poland
