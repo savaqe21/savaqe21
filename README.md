@@ -6,7 +6,7 @@ I am a 19-year-old technical school graduate, majoring in information technology
 * 🚀  Websites that I built myself from scratch for companies (WordPress) ➤ [7Sports](https://7sports.pl) & [Razzo](https://razzo.com.pl) 
 * 🧠  I create my current applications with [SwiftUI](https://developer.apple.com/xcode/swiftui/)
 * 🤝  I'm open to collaborating on an interesting projects that will allow me to develop
-* ⚡️  I started my adventure in 2019 learning HTML, CSS and JavaScript. After mastering the basics, creating a few websites and web applications, I decided to switch to creating applications for iOS.
+* ⚡️  I started my adventure in 2019 learning HTML, CSS and JavaScript. After mastering the basics, creating a few websites and web applications, I decided to learn how to create iOS apps.
 
 ### Languages
 <p align="left">
