@@ -1,31 +1,32 @@
 ### 🙋‍♂️ My name is Fabian Leśniak
 ### Junior Software Developer<br/>
-I am a 19-year-old technical school graduate, majoring in information technology, who is looking for a job in the IT industry. I myself learned how to use individual tools and write code in various programming technologies. I care about gaining experience and improving my qualifications, so why shouldn't I improve myself in your company?
+I am a computer science student (engineering studies) , who is looking for a job or internship in the IT industry. All by myself I learned how to use individual tools and write code in various programming technologies. I care about gaining experience and improving my qualifications, so why shouldn't I improve myself in your company?
 * 🌍  I'm based in Gorzów Wielkopolski ➤ Poland
 * ✉️  You can contact me at [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
-* 🚀  Websites that I built myself from scratch for companies (WordPress) ➤ [7Sports](https://7sports.pl) & [Razzo](https://razzo.com.pl) 
-* 🧠  I create my current applications with [SwiftUI](https://developer.apple.com/xcode/swiftui/)
-* 🤝  I'm open to collaborating on an interesting projects that will allow me to develop
-* ⚡️  I started my adventure in 2019 learning HTML, CSS and JavaScript. After mastering the basics, creating a few websites and web applications, I decided to learn how to create iOS apps.
-
+* 🚀  Websites that I built myself from scratch for companies (WordPress) ➤ [7Sports](https://7sports.pl) & [Razzo](https://razzo.com.pl) (websites are unavailable ;//)
+* 🤝  I'm open to collaborating on an interesting projects that will allow me to develop.
+* ⚡️  I started my adventure in 2019 learning HTML, CSS. Then I started studying JavaScript. After mastering the basics, creating a few websites and web applications, I decided to learn new things. I wanted to create iOS apps. Now after trying most things I have found my purpose.
+* 🧠  I aspire to be in the cybersecurity industry.
+  
 ### Languages
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/Swift-orange?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/HTML-orangered?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/CSS-dodgerblue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-steelblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/SQL-steelblue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/PHP-indigo?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/C++-crimson?style=for-the-badge">
 </p>
 
 ### Frameworks
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Sass-mediumvioletred?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/WidgetKit-crimson?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/CoreML-cadetblue?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/MapKit-forestgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/WeatherKit-royalblue?style=for-the-badge">
+<!-- <img alt="Static Badge" src="https://img.shields.io/badge/-cadetblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/-forestgreen?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/-royalblue?style=for-the-badge"> -->
+<img alt="Static Badge" src="https://img.shields.io/badge/MySQL-steel?style=for-the-badge">
 </p>
 
 ### Tools
