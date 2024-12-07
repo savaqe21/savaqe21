@@ -23,9 +23,6 @@ I am a computer science student (engineering studies) , who is looking for a job
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Sass-mediumvioletred?style=for-the-badge">
-<!-- <img alt="Static Badge" src="https://img.shields.io/badge/-cadetblue?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/-forestgreen?style=for-the-badge">
-<img alt="Static Badge" src="https://img.shields.io/badge/-royalblue?style=for-the-badge"> -->
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-steel?style=for-the-badge">
 </p>
 
@@ -35,6 +32,15 @@ I am a computer science student (engineering studies) , who is looking for a job
 <img alt="Static Badge" src="https://img.shields.io/badge/WordPress-darkcyan?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/phpMyAdmin-chocolate?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/PrestaShop-lightslategray?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/VS Code-cadetblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Xcode-forestgreen?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Microsoft Office-royalblue?style=for-the-badge">
+</p>
+
+### Design
+<p align="left">
+<img alt="Static Badge" src="https://img.shields.io/badge/Canva-skyblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Figma-cyan?style=for-the-badge">
 </p>
 
 ### My Repo languages
