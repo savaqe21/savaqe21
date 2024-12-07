@@ -35,6 +35,7 @@ I am a computer science student (engineering studies) , who is looking for a job
 <img alt="Static Badge" src="https://img.shields.io/badge/VS Code-cadetblue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Xcode-forestgreen?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Microsoft Office-royalblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Elementor-lightgray?style=for-the-badge">
 </p>
 
 ### Design
