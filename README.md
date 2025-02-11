@@ -6,15 +6,17 @@ I am a computer science student (engineering studies) , who is looking for a job
 * 🚀  Websites that I built myself from scratch for companies (WordPress) ➤ [7Sports](https://7sports.pl) & [Razzo](https://razzo.com.pl) (websites are unavailable ;//)
 * 🤝  I'm open to collaborating on an interesting projects that will allow me to develop.
 * ⚡️  I started my adventure in 2019 learning HTML, CSS. Then I started studying JavaScript. After mastering the basics, creating a few websites and web applications, I decided to learn new things. I wanted to create iOS apps. Now after trying most things I have found my purpose.
-* 🧠  I aspire to be in the cybersecurity industry.
+* 🧠  I aspire to be...
 
-### Cisco
+### Badges
 <p align="left">
 <img alt="Cisco Badge" width="80px" height="80px" src="https://github.com/user-attachments/assets/83c7da32-7c76-423b-8dfb-08c7edb74429">
 <img alt="Cisco Badge" width="80px" height="80px" src="https://github.com/user-attachments/assets/e2eb944d-0514-4df4-ae12-2d4c174d6b86">
 <img alt="Cisco Badge" width="80px" height="80px" src="https://github.com/user-attachments/assets/f361757e-78cf-48d2-8fea-cadcfa420815">
+<img alt="opswat-introduction-to-critical-infrastructure-protection-icip" width="80px" height="80px" src="https://github.com/user-attachments/assets/90ef6678-e9e8-40de-b437-d10dc185c5f7" />
+<img alt="isc2-candidate" width="80px" height="80px" src="https://github.com/user-attachments/assets/73722fd8-6f3b-411e-b5a7-3bec59b7cfcf">
 </p>
-  
+
 ### Languages
 <p align="left">
 <img alt="Static Badge" src="https://img.shields.io/badge/Swift-orange?style=for-the-badge">
