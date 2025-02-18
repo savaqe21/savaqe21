@@ -1,12 +1,12 @@
 ### 🙋‍♂️ My name is Fabian Leśniak
 
-I am a computer science student (engineering studies) , who is looking for a job or internship in the IT industry. All by myself I learned how to use individual tools and write code in various programming technologies. I care about gaining experience and improving my qualifications, so why shouldn't I improve myself in your company?
+I am an engineering student specializing in computer science, seeking opportunities for growth in the IT industry through an internship or a job. I am a self-motivated and ambitious individual who has independently learned to work with various programming tools and languages. I constantly strive to expand my knowledge and skills because my goal is continuous development and the creation of increasingly sophisticated solutions.
 * 🌍  I'm based in Gorzów Wielkopolski ➤ Poland
 * ✉️  You can contact me at [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
 * 🚀  Websites that I built myself from scratch for companies (WordPress) ➤ [7Sports](https://7sports.pl) & [Razzo](https://razzo.com.pl) (websites are unavailable ;//)
 * 🤝  I'm open to collaborating on an interesting projects that will allow me to develop.
-* ⚡️  I started my adventure in 2019 learning HTML, CSS. Then I started studying JavaScript. After mastering the basics, creating a few websites and web applications, I decided to learn new things. I wanted to create iOS apps. Now after trying most things I have found my purpose.
-* 🧠  I aspire to be...
+* ⚡️  My journey in programming began in 2019 with HTML and CSS, followed by JavaScript. After mastering the fundamentals and building several websites and web applications, I decided to explore iOS app development.
+* 🧠  Today, after experimenting with various technologies, I have found my path and am committed to reaching new milestones in my career.
 
 ### Badges
 <p align="left">
