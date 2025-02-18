@@ -1,5 +1,5 @@
 ### 🙋‍♂️ My name is Fabian Leśniak
-### Junior Software Developer<br/>
+
 I am a computer science student (engineering studies) , who is looking for a job or internship in the IT industry. All by myself I learned how to use individual tools and write code in various programming technologies. I care about gaining experience and improving my qualifications, so why shouldn't I improve myself in your company?
 * 🌍  I'm based in Gorzów Wielkopolski ➤ Poland
 * ✉️  You can contact me at [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
