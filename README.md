@@ -33,6 +33,9 @@ I am a computer science student (engineering studies) , who is looking for a job
 <img alt="Static Badge" src="https://img.shields.io/badge/SwiftUI-blue?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/Sass-mediumvioletred?style=for-the-badge">
 <img alt="Static Badge" src="https://img.shields.io/badge/MySQL-steel?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/Foundation-crimson?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/CoreML-cadetblue?style=for-the-badge">
+<img alt="Static Badge" src="https://img.shields.io/badge/CreateML-forestgreen?style=for-the-badge">
 </p>
 
 ### Tools
