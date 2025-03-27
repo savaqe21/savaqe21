@@ -63,6 +63,3 @@ I am a Computer Science student constantly seeking new opportunities to develop 
 
 ### My Repo languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=savaqe21&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=savaqe21&icon=2&color=12)](https://visitcount.itsvg.in)
