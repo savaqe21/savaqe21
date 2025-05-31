@@ -6,8 +6,8 @@ Currently, my main goal is to grow in the cybersecurity field. I actively solve 
 
 * 🌍  I'm based in Gorzów Wielkopolski ➤ Poland
 * ✉️  You can contact me at [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
-* 🤝  You can see my CV at [Moje CV]()
-* 🧠  View my webpage at [Moja strona internetowa]()
+* 🤝  You can see my CV at [Moje CV](https://savaqe21.github.io/Lesniak-Fabian-CV.pdf)
+* 🧠  View my webpage at [Moja strona internetowa](https://savaqe21.github.io)
 
 ### My Repo languages
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=savaqe21&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
