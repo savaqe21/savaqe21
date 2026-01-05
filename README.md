@@ -1,10 +1,18 @@
-### 🙋‍♂️ My name is Fabian Leśniak
+### 🙋‍♂️ Cześć
 
-I am a Computer Science student constantly seeking new opportunities to develop my skills and gain hands-on experience. My passion for technology started in my teenage years – from building my first websites to developing iOS applications. Commercially, I have worked on WordPress-based websites and PrestaShop e-commerce platforms.
+Jestem studentem informatyki i technikiem IT, który najlepiej czuje się tam, gdzie coś się dzieje. Nie lubię stać w miejscu, dlatego łączę studia z pracą i własnymi projektami. 
 
-Currently, my main goal is to grow in the cybersecurity field. I actively solve CTF challenges, expand my knowledge as a member of Sekurak Academy, and pursue certifications. Self-learning is a natural part of my journey – if I don't know something, I won't stop until I master it. I am constantly investing in my growth to acquire practical skills and confidently pursue a career in IT security.
+Moje podejście? Proste: nie wiem czegoś dzisiaj? To usiądę i będę cisnąć temat tak długo, aż go opanuję.
 
-* 🌍  I'm based in Gorzów Wielkopolski ➤ Poland
-* ✉️  You can contact me at [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
-* 🤝  You can see my CV at [Moje CV](https://savaqe21.github.io/Lesniak-Fabian-CV.pdf)
-* 🧠  View my webpage at [Moja strona internetowa](https://savaqe21.github.io)
+* 🌍  Mieszkam w Gorzowie Wielkopolskim
+* ✉️  Tu możesz się ze mną skontaktować: [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
+* 🤝  Tutaj zerkniesz na [moje CV](https://savaqe21.github.io/Lesniak-Fabian-CV.pdf)
+* 🧠  A tutaj zobaczysz [moją stronę internetową](https://savaqe21.github.io)
+
+🛡️ Cybersecurity: Moja docelowa ścieżka. Regularnie cisnę CTF-y, szlifuję skille w Sekurak Academy i buduję fundamenty.
+
+🌐 Sieci: Mam CCNA, ale teoria to nie wszystko. W domu działam na Mikrotiku, a na co dzień staram się wykorzystać tę wiedzę w pracy.
+
+🖥️ Systemy: Na co dzień macOS, w projektach domowych Linux, a w pracy Windows. Żaden terminal nie jest mi obcy.
+
+💻 Dev: Przeszłość, która pomaga mi dzisiaj. Rok ze stronami internetowymi i zabawa z aplikacjami mobilnymi nauczyły mnie, jak czytać i rozumieć kod.
