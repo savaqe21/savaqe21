@@ -18,4 +18,4 @@ Moje podejście? Proste: nie wiem czegoś dzisiaj? To usiądę i będę cisnąć
 💻 Dev: Przeszłość, która pomaga mi dzisiaj. Rok ze stronami internetowymi i zabawa z aplikacjami mobilnymi nauczyły mnie, jak czytać i rozumieć kod.
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/savaqe21/github-readme-stats)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=savaqe21)](https://github.com/savaqe21/github-readme-stats)
