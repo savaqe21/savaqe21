@@ -16,3 +16,6 @@ Moje podejście? Proste: nie wiem czegoś dzisiaj? To usiądę i będę cisnąć
 🖥️ Systemy: Na co dzień macOS, w projektach domowych Linux, a w pracy Windows. Żaden terminal nie jest mi obcy.
 
 💻 Dev: Przeszłość, która pomaga mi dzisiaj. Rok ze stronami internetowymi i zabawa z aplikacjami mobilnymi nauczyły mnie, jak czytać i rozumieć kod.
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?savaqe21=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
