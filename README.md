@@ -6,8 +6,7 @@ Moje podejście? Proste: nie wiem czegoś dzisiaj? To usiądę i będę cisnąć
 
 * 🌍  Mieszkam w Gorzowie Wielkopolskim
 * ✉️  Tu możesz się ze mną skontaktować: [fabianlesniak@icloud.com](mailto:fabianlesniak@icloud.com)
-* 🤝  Tutaj zerkniesz na [moje CV](https://savaqe21.github.io/Lesniak-Fabian-CV.pdf)
-* 🧠  A tutaj zobaczysz [moją stronę internetową](https://savaqe21.github.io)
+* 🤝  A tutaj zobaczysz [moją stronę internetową](https://savaqe21.github.io)
 
 🛡️ Cybersecurity: Moja docelowa ścieżka. Regularnie cisnę CTF-y, szlifuję skille w Sekurak Academy i buduję fundamenty.
 
